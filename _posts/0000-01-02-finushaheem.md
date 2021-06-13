@@ -4,8 +4,5 @@ title: "Welcome to our second slide!"
 ---
 Your text
 Use the left arrow to go back!
-hi hi 
-hi 
-hi
-hi
-hi
+this is the final slide:)
+thank you
